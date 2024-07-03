@@ -21,13 +21,13 @@ author: CONTACT
 email: contact at mfhi dot org
 
 description: >- # this means to ignore newlines until "baseurl:"
- Site description for footer on all pages.
+ Footer text that can appear on all site pages.
 # Description appears in document head meta (for Google search results) and feed.xml site description.
 
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "http://angelaberti.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-date_format: "%Y %B $-d"
+date_format: "%Y %B %-d"
 show_excerpts: true
 
 # Build settings
