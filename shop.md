@@ -6,4 +6,4 @@ permalink: /shop/
 
 Under construction.
 
-(/assets/img/under-construction.png)
+![](/assets/img/under-construction.png)
