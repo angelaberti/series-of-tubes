@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "http://angelaberti.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-date_format: %Y %B %d
+date_format: "%Y %B %d"
 show_excerpts: true
 
 # Build settings
