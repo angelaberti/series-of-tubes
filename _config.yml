@@ -24,9 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
  Site description for footer on all pages.
 # Description appears in document head meta (for Google search results) and feed.xml site description.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/series-of-tubes" # the subpath of your site, e.g. /blog
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://angelaberti.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # twitter_username: jekyllrb
 # github_username:  jekyll
