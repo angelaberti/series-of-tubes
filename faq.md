@@ -4,9 +4,9 @@ title: FAQ
 permalink: /faq/
 ---
 
-**Q.** Why is the sky blue?\
-**A.** [Rayleigh scattering](https://en.wikipedia.org/wiki/Rayleigh_scattering)\
+**Why is the sky blue?**\
+[Rayleigh scattering](https://en.wikipedia.org/wiki/Rayleigh_scattering)\
 \
-**Q.** What is the meaning of life?\
-**A.** 42
+**What is the meaning of life?**\
+42
 
